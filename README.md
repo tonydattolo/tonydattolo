@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge.glitch.me/badge?tonydattolo=page.id&left_color=green&right_color=red)
+
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/tonydattolo/count.svg" alt="hit counter" align="center">
+</div>
