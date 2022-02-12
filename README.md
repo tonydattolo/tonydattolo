@@ -54,6 +54,9 @@
   <img height="30px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img height="30px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
   <img height="30px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img height="30px" width="auto" src="./devicons/vercel.png" />
+  <img height="30px" width="auto" src="./devicons/github-actions.png" />
+
 </div>
 
 ### Libraries
