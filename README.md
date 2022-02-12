@@ -1,13 +1,3 @@
-<style type="text/css" rel="stylesheet">
-.devicon {
-  width: 30px;
-  height: 30px;
-}
-.discord {
-  color: #7289da !important;
-}
-</style>
-
 # Hey guys, I'm Tony!
 ## Full Stack Web3 Software Engineer
 
