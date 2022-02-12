@@ -8,8 +8,12 @@
 }
 </style>
 
-# Tony Dattolo
+# Hey guys, I'm Tony!
 ## Full Stack Web3 Software Engineer
+
+<!-- ![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonydattolo&show_icons=true&theme=radical)
+
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonydattolo&show_icons=true&theme=radical) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tonydattolo.visitor-badge)
 
