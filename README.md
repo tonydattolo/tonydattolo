@@ -100,7 +100,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonydattolo&repo=TwitterClone)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonydattolo&repo=TwitterClone)](https://github.com/tonydattolo/TwitterClone)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tonydattolo&repo=web3social)](https://github.com/anuraghazra/github-readme-stats)
 
