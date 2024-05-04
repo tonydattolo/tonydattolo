@@ -1,6 +1,7 @@
 generalist full stack software engineer.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tonydattolo.visitor-badge)
+i recently deleted a bunch of major repositories because I was moving them and it got rid of my entire commit history for them. oops.
+
 
 
 <div align="center">
