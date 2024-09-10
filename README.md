@@ -1,6 +1,6 @@
 Hey visitor,
 
-My name is Tony. I'm a full stack software engineer. I have a Bachelor of Science in Computer Science from Indiana University - Bloomington. I took Professor Dahkilic's Intro to CS course on a whim and completely fell in love with programming -- to the point of dropping out of business school with just a year to finish. I have worked as a full stack software engineer at a YCombinator backed B2B SaaS Fintech called Modernbanc (W20). I am a true generalist, meaning I have a broad range of experience in both technical and non-technical fields.
+My name is Tony. I'm a full stack software engineer. I have a Bachelor of Science in Computer Science from Indiana University - Bloomington. I took Professor Dahkilic's Intro to CS course on a whim and completely fell in love with programming -- to the point of dropping out of business school with just a year to finish. I have worked as a full stack software engineer at a YCombinator backed B2B and Enterprise SaaS Fintechs Modernbanc (W20) and ProSights (W24). I am a true generalist, meaning I have a broad range of experience in both technical and non-technical fields.
 
 On the technical side I love doing everything across the stack. I prefer open-source and self-hosted solutions whenever possible. I believe it makes you a better engineer and is more sustainable for any business long-term to minimize costs. On the non-technical side I have worked in operations, finance, sales, and marketing. I am comfortable networking, talking to users, going to events, negotiating deals, etc. 
 
