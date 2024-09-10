@@ -6,9 +6,6 @@ On the technical side I love doing everything across the stack. I prefer open-so
 
 In terms of team environment there are a few things I look for. I prefer a democratic decision-making environment where we foster buy-in, psychological safety, and data driven decision making. I want to make sure everyone on my team feels they have a voice, feels heard, and is comfortable speaking freely. I believe this is critical to motivation, creativity, and productivity. Things like design sprints, yes-and framework, and a celebration of failed ideas are a few ways to cultivate this environment.
 
-note to potential employers: i recently deleted a bunch of major repositories because I was moving them and it got rid of my entire commit history for them. oops. i love to code, I pinky promise. if it makes you feel better I can hack the commit history to make it look like whatever you want it to look like
-
-
 
 <div align="center">
 <p></p>
